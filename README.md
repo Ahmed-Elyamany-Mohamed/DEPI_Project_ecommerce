@@ -1,74 +1,40 @@
-## 🛒 eCommerce Fast Store
+# DEPI_Project
+- This Is A Repo For Depi Project 
 
-### ✨ Overview
-eCommerce Fast Store is a modern and responsive web application built with Angular, designed for seamless online shopping experiences. It allows users to browse, add products to their cart, manage orders, and securely checkout. With a sleek UI and an intuitive interface, this app provides a great experience for customers looking to shop online.
+## **TEAM NAMES:**
+1- Ahmed Elyamany Shehta\
+2- Mohamed lotfy ali salem\
+3- Youssef Raafat Kamel Youssef\
+4- Mohamed shebl abdelqawy sallam
 
----
-
-### 🌟 Features
-👉 **User Authentication** – Sign up, log in, and manage user profiles.  
-👉 **Product Browse & Search** – Explore a wide range of products with easy search functionality.  
-👉 **Shopping Cart Management** – Add, remove, and view items in the cart.  
-👉 **Order Processing** – Seamless order management from cart to checkout.  
-👉 **Dark Mode** – Switch between light and dark themes.  
-👉 **Multi-language Support** – Easily switch between different languages using built-in translation.  
-👉 **Responsive Design** – Fully functional across all device sizes.
-
----
-
-### 🛠️ Tech Stack
-- **Frontend:** Angular, TypeScript, SCSS  
-- **State Management:** RxJS  
-- **UI Framework:** Bootstrap, PrimeNG, ngx-toastr  
-- **Backend:** Node.js (Assumed), REST API  
-- **Authentication:** JWT
-
----
-
-### 📂 Project Structure
-```
-ecommerce-fast-store/
-│── src/
-│   ├── app/
-│   │   ├── core/          # Core modules & services
-│   │   ├── feature/       # Feature modules (e.g., auth, products, orders)
-│   │   ├── shared/        # Shared components, directives, pipes
-│── angular.json           # Angular project configuration
-│── package.json           # Dependencies & scripts
-│── README.md              # Project documentation like this
-```
-
----
-
-### 📌 Installation & Setup
-#### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUSSEF-R-KAMEL/eCommerce-Fast-Store.git
-cd eCommerce-Fast-Store
-```
-
-#### 2️⃣ Install Dependencies
-```bash
-npm install
-```
-
-#### 3️⃣ Run the Development Server
-```bash
-ng serve
-```
-Then open `http://localhost:4200/` in your browser.
-
-#### 4️⃣ Build for Production
-```bash
-ng build --configuration production
-```
-
----
+## **Project Name:**
+- Fresh Cart
+## **Project Idea:**
+- E-Commerce Project That Shows The Products To The User, And The User Can Create An Account To Purchase 
 
 
-### 📱 Contact
-For any inquiries, reach out:  
-- **portfolio:** https://youssef-raafat-angular-portfolio.vercel.app/home
-- **Email:** se.youssefrafat@gmail.com
-- **phone:** +20 01278004938
-- **linkedin:** https://www.linkedin.com/in/youssef-raafat-695591203
+## Work Plan
+1. Research & Analysis
+- Audience personas
+2. Visual Identity
+- Figma Design
+3. Main Designs
+- Web Design
+4. Complementary Products
+- Adding Products
+5. Review & Finalization
+- Testing
+6. Final Presentation
+
+## Roles & Responsibilities
+1- Ahmed Elyamany Shehta (Team Leader) (Backend)\
+2- Mohamed lotfy ali salem (Authentication)\
+3- Youssef Raafat Kamel Youssef (Home Page, Products)\
+4- Mohamed shebl abdelqawy sallam (About Page, Connect Apis)
+
+## Instructor
+- Hesham Mohamed
+
+## Project Files
+- You can find the full project files here:
+- https://github.com/Ahmed-Elyamany-Mohamed/DEPI_Project/tree/master
